@@ -85,19 +85,6 @@ This dashboard helps businesses:
 ## Dashboard Preview
 
 
-
-
-
-
-## Dataset & Assets
-
-Dataset and project assets were sourced from publicly available educational resources and were used for learning and portfolio purposes.
-
-Original Dataset & Assets Source:
-(Paste the original download link here)
-
-
-
 <img width="1284" height="719" alt="Screenshot 2026-06-08 224612" src="https://github.com/user-attachments/assets/6d92d40a-827f-40cd-952a-d03de18c2e17" />
 <img width="1277" height="718" alt="Screenshot 2026-06-08 224630" src="https://github.com/user-attachments/assets/87caa32e-73b1-48bb-926e-ff96ac2058f3" />
 <img width="1280" height="716" alt="Screenshot 2026-06-08 224648" src="https://github.com/user-attachments/assets/199925c5-ed93-406e-8c05-7e51677d6ff3" />
@@ -107,14 +94,6 @@ Original Dataset & Assets Source:
 
 
 
-## Dataset & Assets
-
-Dataset and project assets were sourced from publicly available educational resources and were used for learning and portfolio purposes.
-
-Original Dataset & Assets Source:
-
-Data Set – Download
-Icons & Images – Download
 
 ---
 
